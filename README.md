@@ -1,2 +1,3 @@
 # Instagram-Clone
-A Clone on Instagram
+This was a project to clone Instagram in my Mobile Applications course.
+
